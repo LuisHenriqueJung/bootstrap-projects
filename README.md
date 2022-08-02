@@ -4,3 +4,4 @@
 - Formulários;
 - Tabelas;
 - Botões;
+- Imagens;
