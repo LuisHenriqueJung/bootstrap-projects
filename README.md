@@ -5,3 +5,5 @@
 - Tabelas;
 - Botões;
 - Imagens;
+- Barra de navegação;
+- Glyphicons;
