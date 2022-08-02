@@ -2,3 +2,4 @@
 
 ### Conteúdos abordados:
 - Formulários;
+- Tabelas;
